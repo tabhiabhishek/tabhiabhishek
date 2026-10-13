@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="290" viewBox="0 0 1280 290" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <rect width="1280" height="290" rx="14" fill="#0f141a"/>
+  <rect x="0.5" y="0.5" width="1279" height="289" rx="14" fill="none" stroke="#2a323d"/>
+
+  <!-- card 1: Speech AI -->
+  <rect x="30" y="30" width="290" height="230" rx="12" fill="#161c24" stroke="#2a323d"/>
+  <rect x="30" y="30" width="290" height="6" rx="3" fill="#22c55e"/>
+  <g fill="#22c55e">
+    <rect x="54" y="72" width="6" height="16" rx="3"/><rect x="64" y="64" width="6" height="32" rx="3"/>
+    <rect x="74" y="58" width="6" height="44" rx="3"/><rect x="84" y="68" width="6" height="24" rx="3"/>
+  </g>
+  <text x="104" y="88" font-size="19" font-weight="700" fill="#f3f4f6">Speech AI</text>
+  <g font-size="14" fill="#9ca3af">
+    <text x="54" y="136">Real-time ASR (Whisper, WhisperX)</text>
+    <text x="54" y="162">Live broadcast captioning</text>
+    <text x="54" y="188">English and Hindi models</text>
+    <text x="54" y="214">CEA-608 · SRT output</text>
+  </g>
+
+  <!-- card 2: LLM apps -->
+  <rect x="340" y="30" width="290" height="230" rx="12" fill="#161c24" stroke="#2a323d"/>
+  <rect x="340" y="30" width="290" height="6" rx="3" fill="#38bdf8"/>
+  <rect x="364" y="62" width="34" height="26" rx="6" fill="none" stroke="#38bdf8" stroke-width="3"/>
+  <path d="M372 88 v8 l8 -8" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linejoin="round"/>
+  <text x="414" y="88" font-size="19" font-weight="700" fill="#f3f4f6">LLM Applications</text>
+  <g font-size="14" fill="#9ca3af">
+    <text x="364" y="136">RAG with LangChain + ChromaDB</text>
+    <text x="364" y="162">AI agents with LangGraph</text>
+    <text x="364" y="188">LLM-as-a-Judge evaluation</text>
+    <text x="364" y="214">Local inference with Ollama</text>
+  </g>
+
+  <!-- card 3: CV & OCR -->
+  <rect x="650" y="30" width="290" height="230" rx="12" fill="#161c24" stroke="#2a323d"/>
+  <rect x="650" y="30" width="290" height="6" rx="3" fill="#a78bfa"/>
+  <path d="M674 76 q20 -22 40 0 q-20 22 -40 0 z" fill="none" stroke="#a78bfa" stroke-width="3"/>
+  <circle cx="694" cy="76" r="6" fill="#a78bfa"/>
+  <text x="726" y="88" font-size="19" font-weight="700" fill="#f3f4f6">Vision &amp; OCR</text>
+  <g font-size="14" fill="#9ca3af">
+    <text x="674" y="136">Computer vision pipelines</text>
+    <text x="674" y="162">OCR and document AI</text>
+    <text x="674" y="188">Model optimization</text>
+    <text x="674" y="214">Production deployment</text>
+  </g>
+
+  <!-- card 4: GPU & production -->
+  <rect x="960" y="30" width="290" height="230" rx="12" fill="#161c24" stroke="#2a323d"/>
+  <rect x="960" y="30" width="290" height="6" rx="3" fill="#f59e0b"/>
+  <rect x="984" y="62" width="34" height="28" rx="4" fill="none" stroke="#f59e0b" stroke-width="3"/>
+  <rect x="993" y="70" width="16" height="12" rx="2" fill="#f59e0b"/>
+  <g stroke="#f59e0b" stroke-width="2"><line x1="990" y1="56" x2="990" y2="62"/><line x1="1001" y1="56" x2="1001" y2="62"/><line x1="1012" y1="56" x2="1012" y2="62"/></g>
+  <text x="1034" y="88" font-size="18" font-weight="700" fill="#f3f4f6">GPU &amp; Production ML</text>
+  <g font-size="14" fill="#9ca3af">
+    <text x="984" y="136">CUDA · PyTorch performance</text>
+    <text x="984" y="162">FastAPI + WebSocket services</text>
+    <text x="984" y="188">Knowledge graphs for MCP</text>
+    <text x="984" y="214">React dashboards</text>
+  </g>
+</svg>
