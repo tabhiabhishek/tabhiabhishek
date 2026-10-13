@@ -106,6 +106,16 @@ I'm an **AI/ML Engineer with 5+ years of experience** designing, optimizing and 
   <img src="https://streak-stats.demolab.com?user=tabhiabhishek&hide_border=true&background=0f141a&ring=22c55e&fire=38bdf8&currStreakLabel=22c55e&sideLabels=d1d5db&currStreakNum=f3f4f6&sideNums=f3f4f6&dates=9ca3af" alt="GitHub streak">
 </p>
 
+## 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tabhiabhishek/tabhiabhishek/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tabhiabhishek/tabhiabhishek/output/github-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/tabhiabhishek/tabhiabhishek/output/github-snake-dark.svg">
+  </picture>
+</p>
+
 ## 🌱 Currently
 
 - 🔭 Working on **real-time multilingual captioning** for live broadcasts
