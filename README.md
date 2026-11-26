@@ -53,6 +53,14 @@ I'm an **AI/ML Engineer with 5+ years of experience** designing, optimizing and 
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/tabhiabhishek/Abhify.AI"><img src="https://raw.githubusercontent.com/tabhiabhishek/Abhify.AI/main/docs/images/banner.svg" alt="Abhify.AI"></a>
+      <h3><a href="https://github.com/tabhiabhishek/Abhify.AI">Abhify.AI</a> &nbsp;·&nbsp; <a href="https://tabhiabhishek.github.io/Abhify.AI/">▶️ Try it live</a></h3>
+      A local-first, privacy-first personal AI workspace for Windows, Android and the browser. It does chat, voice, study and interview prep, document Q&amp;A with sources, and memory that needs your consent. The AI runs on your own device, and the web version runs fully in the browser with WebGPU.
+      <br><br><code>FastAPI</code> <code>Ollama</code> <code>Kotlin</code> <code>Jetpack Compose</code> <code>llama.cpp</code> <code>WebLLM</code> <code>ChromaDB</code> <code>RAG</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/tabhiabhishek/captionflow-pro"><img src="https://raw.githubusercontent.com/tabhiabhishek/captionflow-pro/main/docs/images/banner.svg" alt="CaptionFlow Pro"></a>
       <h3><a href="https://github.com/tabhiabhishek/captionflow-pro">CaptionFlow Pro</a></h3>
